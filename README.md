@@ -9,7 +9,7 @@
     <a href="https://t.me/ooomuhn">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://hh.ru/resume/09b5ca18ff0e9d22560039ed1f6c3864494548">
+  <a href="https://hh.ru/resume/9e0657cfff0ea908130039ed1f47784b36614e">
     <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
   </a>
 <h1>
